@@ -1,0 +1,193 @@
+/* navbar */
+.navbar {
+  padding: 3px 0;
+}
+
+.navbar-brand {
+  font-family: Work sans;
+  font-size: 30px;
+  font-style: italic;
+  line-height: 25px;
+  line-height: 100%;
+  vertical-align: top;
+  color: #2947a9;
+}
+
+.navbar-brand span {
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.nav-link {
+  margin-left: 41px;
+  font-family: work sans;
+  font-style: regular;
+  font-size: 18px;
+  line-height: 11px;
+}
+/* akhir navbar */
+
+/* jumbotron */
+.banner {
+  background: url(img/gambar\ 2.jpg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.display-4 {
+  font-family: Work Sans;
+  font-weight: bold;
+}
+
+.jumbotron .container {
+  z-index: 1;
+  position: relative;
+}
+
+.jumbotron h1 {
+  font-family: Work sans;
+  font-weight: 500;
+  font-size: 72px;
+  vertical-align: top;
+  color: white;
+}
+/* akhir jumbotron */
+
+/* our repution */
+.section-1 {
+  padding: 20vmin 0vmin;
+}
+
+.section-1 .row .col-md-6 .pray img {
+  opacity: 0.8;
+  width: 80%;
+  border-radius: 0.2em;
+}
+
+.section-1 .row .col-md-6:last-child {
+  position: relative;
+}
+
+.section-1 .row .col-md-6 .panel {
+  position: absolute;
+  top: 7vmin;
+  left: -20vmin;
+
+  background: white;
+  border-radius: 3px;
+  text-align: left;
+  padding: 13vmin 5vmin 20vmin 10vmin;
+  box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+  font-family: var(--Rubik);
+  z-index: 1;
+}
+
+.section-1 .row .col-md-6 .panel h1 {
+  font-weight: bold;
+  padding: 0.4em 0;
+  font-size: 2em;
+}
+
+.section-1 .row .col-md-6 .panel p {
+  font-size: 0.9em;
+  color: rgba(0, 0, 0, 0.5);
+}
+/* akhir our repution */
+
+/* project number */
+.projects-number {
+  justify-content: center;
+  position: absolute;
+}
+.satu {
+  width: 200px;
+  margin-left: 350px;
+  font-size: 34px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: -10px;
+}
+.satuu {
+  font-size: 15px;
+  font-weight: 200;
+}
+.dua {
+  width: 230px;
+  height: 80px;
+  margin-left: 150px;
+  font-size: 34px;
+  text-align: center;
+  margin-top: -30px;
+  font-weight: bold;
+}
+.tiga {
+  width: 190px;
+  height: 80px;
+  margin-left: 300px;
+  font-size: 34px;
+  text-align: center;
+  margin-top: -10px;
+  font-weight: bold;
+}
+.empat {
+  width: 230px;
+  height: 80px;
+  margin-left: 120px;
+  font-size: 34px;
+  text-align: center;
+  margin-top: -20px;
+  font-weight: bold;
+}
+/* akhir project number */
+
+/* asset */
+.asset {
+  background: url(img/gambar\ 2.jpg);
+  height: 160px;
+  text-align: center;
+}
+/* akhir asset */
+
+footer {
+  background: white;
+  padding: 86px 0;
+}
+
+.single-box h2 {
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.single-box span {
+  font-weight: 100;
+  font-size: 16px;
+}
+
+#basic-addon2 {
+  background: #fe1e4f;
+  color: black;
+}
+
+/* projects */
+.projects-text-box-icon {
+  font-size: 35px;
+  padding-bottom: 20px;
+  color: #2947a9;
+}
+
+.projects-text-box-title {
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.projects-text-box-desc {
+  font-size: 15px;
+  color: white;
+}
